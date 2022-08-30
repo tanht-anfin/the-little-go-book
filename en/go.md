@@ -51,6 +51,8 @@ Normally, I put my projects inside of `~/code`. For example, `~/code/blog` conta
 
 In short, create a `go` folder with a `src` subfolder wherever you expect to put your projects.
 
+# Read until here
+
 ## OSX / Linux
 Download the `tar.gz` for your platform. For OSX, you'll most likely be interested in `go#.#.#.darwin-amd64-osx10.8.tar.gz`, where `#.#.#` is the latest version of Go.
 
